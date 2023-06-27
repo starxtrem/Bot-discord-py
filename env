@@ -1,0 +1,5 @@
+discord_tokenbot = "" #token bot
+urlserv = "http://0.0.0.0:30120/players.json" #ip server
+
+
+
